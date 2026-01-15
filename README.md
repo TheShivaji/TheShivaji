@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com/TheShivaji/TheShivaji/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;I+Build+Scalable+Systems;Always+Learning..." alt="Typing SVG" />
 </div>
