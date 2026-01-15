@@ -1,33 +1,65 @@
-<h1 align="center">Hi 👋, I'm Shivaji</h1>
-<h3 align="center">Frontend Developer | React Learner</h3>
+<h1 align="center">⚡ Shivaji X</h1>
+<h3 align="center">Frontend Developer • React Learner • Future DevOps Engineer</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Frontend+Developer;React+Learner;Future+DevOps+Engineer;Building+my+GitHub+Journey)
-
----
-
-### 👨‍💻 About Me
-- 🌱 Learning **React, JavaScript**
-- 🎯 Goal: **Frontend → DevOps**
-- ⚡ Consistent learner, building daily
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+Skills+Daily;React+%7C+JavaScript+%7C+Git;From+Frontend+to+DevOps;Consistency+Over+Motivation" />
+</p>
 
 ---
 
-### 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-blue)
+## 🧠 Philosophy
+> **“Slow progress is still progress.”**  
+> Focused on learning, building, and improving every single day.
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=shivajix&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivajix)
+## 🚀 What I'm Doing Now
+- 🔥 Mastering **React fundamentals**
+- 🧩 Building small but real projects
+- ⚙️ Learning **Git & GitHub deeply**
+- ☁️ Preparing for **DevOps journey**
 
 ---
 
-### 🚀 2026 Goals
-- Build real-world React projects
-- Learn Git & GitHub deeply
-- Start DevOps journey
+## 🛠 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
 
+---
+
+## 📊 GitHub Power Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivajix&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivajix&theme=transparent" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivajix&theme=flat&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (AUTO ANIMATION)
+![snake animation](https://github.com/shivajix/shivajix/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivajix&style=flat-square" />
+</p>
+
+---
+
+## 🎯 2026 Mission
+- Build strong frontend projects
+- Push code consistently
+- Learn DevOps tools
+- Become job-ready developer
