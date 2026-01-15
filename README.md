@@ -1,65 +1,71 @@
-<h1 align="center">⚡ Shivaji X</h1>
-<h3 align="center">Frontend Developer • React Learner • Future DevOps Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+Skills+Daily;React+%7C+JavaScript+%7C+Git;From+Frontend+to+DevOps;Consistency+Over+Motivation" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TheShivaji&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Code.%20Build.%20Deploy.%20Repeat.&descAlign=50&descAlignY=60" alt="Header" />
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(MERN);Learning+Docker+%26+Kubernetes;Exploring+Generative+AI;System+Design+Enthusiast;Sheryians+Coding+School+Student" alt="Typing SVG" />
+  </a>
 
-## 🧠 Philosophy
-> **“Slow progress is still progress.”**  
-> Focused on learning, building, and improving every single day.
+  <br/><br/>
 
----
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your_email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-## 🚀 What I'm Doing Now
-- 🔥 Mastering **React fundamentals**
-- 🧩 Building small but real projects
-- ⚙️ Learning **Git & GitHub deeply**
-- ☁️ Preparing for **DevOps journey**
-
----
-
-## 🛠 Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Power Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivajix&show_icons=true&theme=transparent" />
-</p>
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivajix&theme=transparent" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivajix&theme=flat&no-frame=true&row=1" />
-</p>
+- 🎓 I am currently a student at **Sheryians Coding School**, mastering **Full Stack Web Development**.
+- 🛠️ **Current Focus:** Building scalable web apps using the **MERN Stack** and **Next.js**.
+- 🐳 **Learning:** Deep diving into **DevOps** (Docker, Kubernetes) and **System Design**.
+- 🤖 **Interest:** Exploring **Generative AI** Engineering (LangChain, Vector DBs).
+- 🏋️ **Offline:** When not coding, I am working out (Squats & Lunges!) or learning French.
 
 ---
 
-## 🐍 Contribution Snake (AUTO ANIMATION)
-![snake animation](https://github.com/shivajix/shivajix/blob/output/github-contribution-grid-snake.svg)
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,kubernetes,vscode,postman,linux&perline=9&theme=dark" />
+  </a>
+</div>
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivajix&style=flat-square" />
-</p>
+### 📊 GitHub Stats & Consistency
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
 
 ---
 
-## 🎯 2026 Mission
-- Build strong frontend projects
-- Push code consistently
-- Learn DevOps tools
-- Become job-ready developer
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Discipline is the bridge between goals and accomplishment."</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+</div>
