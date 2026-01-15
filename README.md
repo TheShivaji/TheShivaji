@@ -9,7 +9,7 @@
   <br/><br/>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:your_email@example.com">
@@ -44,22 +44,15 @@
 ### 📊 GitHub Stats & Consistency
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </div>
 
 ---
@@ -67,5 +60,5 @@
 <div align="center">
   <i>"Discipline is the bridge between goals and accomplishment."</i>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TheShivaji&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </div>
