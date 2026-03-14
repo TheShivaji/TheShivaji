@@ -27,7 +27,7 @@
 - 🛠️ **Current Focus:** Building scalable web apps using the **MERN Stack** and **Next.js**.
 - 🐳 **Learning:** Deep diving into **DevOps** (Docker, Kubernetes) and **System Design**.
 - 🤖 **Interest:** Exploring **Generative AI** Engineering (LangChain, Vector DBs).
-- 🏋️ **Offline:** When not coding, I am working out (Squats & Lunges!) or learning French.
+- 🏋️ **Offline:** When not coding, I am working out (Squats & Lunges!) .
 
 ---
 
