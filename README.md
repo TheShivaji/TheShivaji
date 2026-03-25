@@ -71,31 +71,3 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=TheShivaji&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakNum=white" alt="streak stats" />
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <blockquote>
-    <i>"Discipline is the bridge between goals and accomplishment."</i>
-  </blockquote>
-</div>
