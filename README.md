@@ -23,7 +23,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I am currently a student at **Sheryians Coding School**, mastering **Full Stack Web Development**.
 - 🛠️ **Current Focus:** Building scalable web apps using the **MERN Stack** and **Next.js**.
 - 🐳 **Learning:** Deep diving into **DevOps** (Docker, Kubernetes) and **System Design**.
 - 🤖 **Interest:** Exploring **Generative AI** Engineering (LangChain, Vector DBs).
