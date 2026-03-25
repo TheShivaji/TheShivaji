@@ -1,101 +1,76 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20TheShivaji!%20%F0%9F%91%8B&fontSize=60&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Code.%20Build.%20Deploy.%20Repeat.&descAlign=50&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TheShivaji&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Code.%20Build.%20Deploy.%20Repeat.&descAlign=50&descAlignY=60" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN);Learning+Docker+%26+Kubernetes;Exploring+Generative+AI;System+Design+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(MERN);Learning+Docker+%26+Kubernetes;Exploring+Generative+AI;System+Design+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <p>
+    <a href="https://linkedin.com/in/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your_email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🛠️ **Current Focus:** Building scalable web apps using the **MERN Stack** and **Next.js**.
+- 🐳 **Learning:** Deep diving into **DevOps** (Docker, Kubernetes) and **System Design**.
+- 🤖 **Interest:** Exploring **Generative AI** Engineering (LangChain, Vector DBs).
+- 🏋️ **Offline:** When not coding, I am working out (Squats & Lunges!) .
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,kubernetes,vscode,postman,linux&perline=9&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats & Consistency
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheShivaji&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
 
-### 👨‍💻 A Little About Me
-
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🛠️ <b>Current Focus:</b> Architecting scalable web apps using the <b>MERN Stack</b> & <b>Next.js</b>.</li>
-        <li>🐳 <b>Currently Learning:</b> Deep diving into <b>Docker, Kubernetes</b>, and System Design principles.</li>
-        <li>🤖 <b>Tech Interests:</b> Exploring the world of <b>Generative AI</b> Engineering (LangChain, Vector DBs).</li>
-        <li>💡 <b>Goal:</b> To write clean, efficient, and maintainable code that solves real-world problems.</li>
-        <li>🏋️‍♂️ <b>Offline:</b> When I step away from the keyboard, you'll find me crushing Squats & Lunges at the gym!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/TheShivaji/TheShivaji/assets/demo-gif-or-image.gif" alt="Coding Animation" width="250" />
-      </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Tech Stack & Tools
-
-*Instead of a messy wall of icons, here is what I work with, neatly organized:*
-
 <div align="center">
-
-  **Frontend Architecture** <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=dark" />
-  </a>
-  
-  <br/> <br/> 
-
-  **Backend & Database** <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
-  </a>
-
-  <br/> <br/> 
-
-  **DevOps & OS** <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode&theme=dark" />
-  </a>
-
+  <i>"Discipline is the bridge between goals and accomplishment."</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=TheShivaji&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=2196F3" height="165" alt="stats graph" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" height="165" alt="languages graph" />
       </td>
     </tr>
   </table>
