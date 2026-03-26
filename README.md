@@ -9,10 +9,10 @@
   <br/><br/>
 
   <p>
-    <a href="https://linkedin.com/in/" target="_blank">
+    <a href="https://linkedin.com/in/[TERA_LINKEDIN_USERNAME]" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:[TERA_EMAIL_ID]">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -34,9 +34,37 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,kubernetes,vscode,postman,linux&perline=9&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,kubernetes,vscode,postman,linux,java,python&perline=10&theme=dark" alt="My Skills" />
   </a>
 </div>
+
+---
+
+### 🚀 Featured Projects & Architecture
+
+<table bordercolor="#30363D">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 Multi-Agent Conversational AI</b><br/>
+      <br/>
+      An advanced chatbot system utilizing multiple AI agents to orchestrate dynamic, context-aware conversations. Built to handle complex routing and automated task execution.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square&logo=openai&logoColor=white" /><br/>
+      <br/>
+      <i><a href="#">🔗 View Repository & Architecture -></a></i>
+    </td>
+    <td width="50%" valign="top">
+      <b>📱 Unified Recharge Portal System</b><br/>
+      <br/>
+      A scalable full-stack web application featuring robust class-diagram architecture, secure transaction routing, and efficient state management for mobile recharges.<br/><br/>
+      <img src="https://img.shields.io/badge/MERN_Stack-43853D?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/System_Design-00599C?style=flat-square&logo=uml&logoColor=white" /><br/>
+      <br/>
+      <i><a href="#">🔗 View Repository & Class Diagram -></a></i>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,6 +85,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheShivaji&bg_color=0D1117&color=2196F3&line=10B981&point=FFFFFF&hide_border=true&theme=tokyonight" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake.svg">
@@ -69,5 +103,8 @@
 <div align="center">
   <i>"Discipline is the bridge between goals and accomplishment."</i>
   <br/><br/>
+  <pre><code>$ ping -c 1 theshivaji.dev
+> Reply from TheShivaji: Let's build something awesome together! 🚀</code></pre>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=TheShivaji&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </div>
