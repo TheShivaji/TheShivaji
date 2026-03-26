@@ -40,34 +40,6 @@
 
 ---
 
-### 🚀 Featured Projects & Architecture
-
-<table bordercolor="#30363D">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🤖 Multi-Agent Conversational AI</b><br/>
-      <br/>
-      An advanced chatbot system utilizing multiple AI agents to orchestrate dynamic, context-aware conversations. Built to handle complex routing and automated task execution.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square&logo=openai&logoColor=white" /><br/>
-      <br/>
-      <i><a href="#">🔗 View Repository & Architecture -></a></i>
-    </td>
-    <td width="50%" valign="top">
-      <b>📱 Unified Recharge Portal System</b><br/>
-      <br/>
-      A scalable full-stack web application featuring robust class-diagram architecture, secure transaction routing, and efficient state management for mobile recharges.<br/><br/>
-      <img src="https://img.shields.io/badge/MERN_Stack-43853D?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/System_Design-00599C?style=flat-square&logo=uml&logoColor=white" /><br/>
-      <br/>
-      <i><a href="#">🔗 View Repository & Class Diagram -></a></i>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats & Consistency
 
 <div align="center">
