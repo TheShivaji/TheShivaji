@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="195" alt="stats graph" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=A3B3BC&custom_title=⚡_Top_Languages" height="195" alt="Upgraded Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=A3B3BC&custom_title=⚡Top_Languages" height="195" alt="Upgraded Languages Graph" />
 </div>
 
 <br/>
@@ -74,9 +74,4 @@
 
 <div align="center">
   <i>"Discipline is the bridge between goals and accomplishment."</i>
-  <br/><br/>
-  <pre><code>$ ping -c 1 theshivaji.dev
-> Reply from TheShivaji: Let's build something awesome together! 🚀</code></pre>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=TheShivaji&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </div>
