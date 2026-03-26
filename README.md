@@ -26,7 +26,7 @@
 - 🛠️ **Current Focus:** Building scalable web apps using the **MERN Stack** and **Next.js**.
 - 🐳 **Learning:** Deep diving into **DevOps** (Docker, Kubernetes) and **System Design**.
 - 🤖 **Interest:** Exploring **Generative AI** Engineering (LangChain, Vector DBs).
-- 🏋️ **Offline:** When not coding, I am working out (Squats & Lunges!) .
+- 🏋️ **Offline:** When not coding, I am working out (Squats & Lunges!).
 
 ---
 
@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,kubernetes,vscode,postman,linux&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,kubernetes,vscode,postman,linux&perline=9&theme=dark" alt="My Skills" />
   </a>
 </div>
 
@@ -43,12 +43,11 @@
 ### 📊 GitHub Stats & Consistency
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="195" alt="stats graph" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=A3B3BC&custom_title=⚡_Top_Languages" height="195" alt="Upgraded Languages Graph" />
+</div>
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages donut graph" />
-  
 <br/>
 
 <div align="center">
