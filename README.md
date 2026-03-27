@@ -42,8 +42,7 @@
 
 ### 📊 GitHub Stats & Consistency
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="195" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&cache_seconds=86400" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=A3B3BC&custom_title=⚡Top_Languages" height="195" alt="Upgraded Languages Graph" />
 </div>
