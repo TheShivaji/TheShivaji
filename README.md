@@ -26,7 +26,7 @@
 - 🛠️ **Current Focus:** MERN Stack + Next.js  
 - 🐳 **Learning:** Docker, Kubernetes, System Design  
 - 🤖 **Interest:** Generative AI (LangChain, Vector DBs)  
-- 🏋️ **Offline:** Gym (Squats & Lunges)
+- 🏋️ **Offline:** (Squats & Lunges)
 
 ---
 
