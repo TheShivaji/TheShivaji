@@ -6,17 +6,8 @@
 
 <div align="center">
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/prathamesh-jagdale-48817330b)
-
-[
-
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:shivajijagdale2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-jagdale-48817330b)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivajijagdale2005@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=TheShivaji&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
 
