@@ -67,7 +67,9 @@ const shivaji = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" />
+
 
 <img src="https://streak-stats.demolab.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
 
