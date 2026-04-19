@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=TheShivaji&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Developer%20%7C%20Building%20in%20Public&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=a78bfa" alt="Header" /></div><div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://linkedin.com/in/prathamesh-jagdale-48817330b/)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=TheShivaji&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Developer%20%7C%20Building%20in%20Public&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=a78bfa" />""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://linkedin.com/in/prathamesh-jagdale-48817330b)
 ""Email" (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:your_email@gmail.com)
 ""Portfolio" (https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)" (https://your-portfolio.vercel.app)
 
@@ -31,8 +31,8 @@ const shivaji = {
 
 Project| Stack| What it does
 🔍 "Perplexity Clone" (https://github.com/TheShivaji/YOUR_REPO)| MERN + AI| Search engine with Study Mode — auto-generates flashcards & quizzes
-🤖 "Baburao AI Agent" (https://github.com/TheShivaji/YOUR_REPO)| Node + Function Calling| AI agent with tool use — Hera Pheri vibes, serious tech
-⚔️ "AI Debate System" (https://github.com/TheShivaji/YOUR_REPO)| Multimodal LLMs| Two AI models argue. A judge AI evaluates
+🤖 "Baburao AI Agent" (https://github.com/TheShivaji/YOUR_REPO)| Node + Function Calling| AI agent with tool use — Hera Pheri vibes
+⚔️ "AI Debate System" (https://github.com/TheShivaji/YOUR_REPO)| Multimodal LLMs| Two AI models argue, judge AI evaluates
 🔐 "Advanced Auth System" (https://github.com/TheShivaji/YOUR_REPO)| MERN + Cookies| Full auth flow — secure & production-ready
 
 ---
@@ -42,12 +42,12 @@ Project| Stack| What it does
 <div align="center">Frontend
 "React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 "Next.js" (https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+"Tailwind" (https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 "JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Backend
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-"Express.js" (https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+"Node" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+"Express" (https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 "MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 "REST API" (https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -79,7 +79,7 @@ DevOps & Tools
 📌 Currently
 
 - 🔨 Building a Perplexity-style search clone
-- 📚 AI Engineering Core Track (Ed Donner)
+- 📚 AI Engineering Core Track
 - 🧭 Learning Next.js + Docker
 - 📣 Posting daily on LinkedIn
 
