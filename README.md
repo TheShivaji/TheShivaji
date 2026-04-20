@@ -88,8 +88,9 @@ const shivaji = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-snake-dark.svg" />
 </div>
+
 
 ---
 
