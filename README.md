@@ -67,8 +67,7 @@ const shivaji = {
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" 
-    alt="GitHub Trophies" 
+    src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&cache_seconds=86400" 
   />
 </div>
 
