@@ -66,10 +66,11 @@ const shivaji = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" 
+    alt="GitHub Trophies" 
+  />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
