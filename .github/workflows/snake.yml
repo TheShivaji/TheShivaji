@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -16,13 +16,12 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: Platane/snk/action@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: TheShivaji
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?color_snake=#a78bfa&color_dots=#161b22,#7c3aed,#6d28d9,#5b21b6,#4c1d95
-        
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
