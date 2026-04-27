@@ -1,130 +1,85 @@
-<!--
-███████╗██╗  ██╗██╗██╗   ██╗ █████╗      ██╗██╗
-██╔════╝██║  ██║██║██║   ██║██╔══██╗     ██║██║
-███████╗███████║██║██║   ██║███████║     ██║██║
-╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██   ██║██║
-███████║██║  ██║██║ ╚████╔╝ ██║  ██║╚█████╔╝██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚════╝ ╚═╝
-           tum aa gaye, mera profile dekh rahe ho 👀
--->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=TheShivaji&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Developer%20%7C%20Building%20in%20Public&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=a78bfa" alt="Header" />
+
+</div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    $ ssh theShivaji@github.com                               ║
-║    > Connection established...                               ║
-║    > Loading profile... ████████████████████ 100%            ║
-║    > Welcome. You found me.                                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-jagdale-48817330b)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivajijagdale2005@gmail.com)
 
-# `~/TheShivaji`
-
-### **Full Stack · AI Developer · Building in Public**
-
-*B.Tech CSE — 3rd Year · Jalgaon, Maharashtra*
-
-[![LinkedIn](https://img.shields.io/badge/-prathamesh--jagdale-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/prathamesh-jagdale-48817330b)
-[![Gmail](https://img.shields.io/badge/-shivajijagdale2005-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivajijagdale2005@gmail.com)
-![](https://komarev.com/ghpvc/?username=TheShivaji&color=7c3aed&style=flat-square&label=👁️+views)
+<img src="https://komarev.com/ghpvc/?username=TheShivaji&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+## 👨‍💻 About Me
 
-## `> ./shivaji --info`
-
-```python
-class Shivaji:
-    name     = "Prathamesh Jagdale"
-    alias    = "TheShivaji"
-    location = "Jalgaon, Maharashtra 🇮🇳"
-    degree   = "B.Tech CSE — 3rd Year"
-
-    stack = ["MERN", "Next.js", "Python",
-             "Docker", "LLMs", "RAG", "Agents"]
-
-    currently_building = "devplexity-ai 🔍"
-    currently_learning = "AI Engineering (Week 3)"
-    open_to = ["Freelance", "Collab", "Internship"]
-
-    def greet(self):
-        return "Aa gaye? Baith. Code dekh. 🤝"
+```ts
+const shivaji = {
+  role:       "Full Stack + AI Developer",
+  college:    "B.Tech CSE — 3rd Year",
+  building:   ["devplexity-ai", "baburao-ai-agent", "ats-resume-ai"],
+  learning:   ["Next.js", "Docker", "AI Engineering (LLMs, RAG, Agents)"],
+  goal:       "Ship products. Not just code.",
+  openTo:     ["Freelance Projects", "Collabs", "Internships"],
+};
 ```
 
-<br clear="right"/>
+> *Currently building in public on LinkedIn — follow the journey.*
 
 ---
 
-## `> ls -la ./projects`
+## 🚀 Featured Projects
 
-<details open>
-<summary><b>📂 /projects — 6 items found</b></summary>
-
-<br>
-
-| &nbsp; | Project | What it does | Stack |
-|:---:|---|---|---|
-| 🔍 | **[devplexity-ai](https://github.com/TheShivaji/devplexity-ai)** | Perplexity-clone — AI chat + tool calling + Study Mode | `MERN` `AI` `Tool Calling` |
-| 🤖 | **[baburao-ai-agent](https://github.com/TheShivaji/baburao-ai-agent)** | Multimodal AI agent with voice — *serious tech, Hera Pheri vibes* | `Python` `Llama` `Gradio` |
-| 📄 | **[ats-resume-ai](https://github.com/TheShivaji/ats-resume-ai)** | Resume vs JD analyzer — finds gaps, gives 30-day fix roadmap | `JS` `AI` |
-| 🤝 | **[multi-agent-debate-ai](https://github.com/TheShivaji/multi-agent-debate-ai)** | AIs debate each other. Judge AI picks the winner. | `Python` `Ollama` |
-| 🔐 | **[advanced-auth-system](https://github.com/TheShivaji/advanced-auth-system)** | OTP + HTTP-only cookies + full auth flow, prod-ready | `MERN` `Security` |
-| 🎵 | **[ModiBeats](https://github.com/TheShivaji/ModiBeats)** | Mood-based music player with real-time interaction | `Full Stack JS` |
-
-</details>
+| Project | Stack | What it does |
+|---|---|---|
+| 🔍 **[devplexity-ai](https://github.com/TheShivaji/devplexity-ai)** | MERN + AI | Perplexity-inspired AI chat app with tool calling |
+| 🤖 **[baburao-ai-agent](https://github.com/TheShivaji/baburao-ai-agent)** | Python + Llama + Gradio | Multimodal AI agent with voice — Hera Pheri vibes, serious tech |
+| 📄 **[ats-resume-ai](https://github.com/TheShivaji/ats-resume-ai)** | JS + AI | Resume analyzer — compares with JD, finds gaps, gives 30-day roadmap |
+| 🔐 **[advanced-auth-system](https://github.com/TheShivaji/advanced-auth-system)** | MERN + HTTP-only Cookies | Full auth flow — OTP verification, secure cookies, production-ready |
+| 🎵 **[ModiBeats](https://github.com/TheShivaji/ModiBeats)** | Full Stack JS | Mood-based music player with real-time interaction |
+| 🤝 **[multi-agent-debate-ai](https://github.com/TheShivaji/multi-agent-debate-ai)** | Python + Ollama | Multiple AIs debate any topic — judge AI evaluates winner |
 
 ---
 
-## `> cat ./stack.json`
-
-```json
-{
-  "frontend"  : ["React", "Next.js", "Tailwind CSS", "Redux", "HTML5", "CSS3"],
-  "backend"   : ["Node.js", "Express.js", "REST APIs", "MongoDB"],
-  "ai_ml"     : ["LLMs", "RAG", "AI Agents", "Llama", "Ollama", "Gradio", "OpenAI API"],
-  "devops"    : ["Docker", "Linux", "Git", "GitHub Actions"],
-  "languages" : ["JavaScript", "TypeScript", "Python"],
-  "tools"     : ["VS Code", "Postman", "Figma"]
-}
-```
-
----
-
-## `> git log --oneline --graph`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,linux,postman,python,vscode&perline=9&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheShivaji&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true&area_color=1a0535" width="100%"/>
 </div>
 
 ---
 
-## `> ps aux | grep currently`
+## 📊 GitHub Stats
 
-```bash
-PID   USER       COMMAND
-101   shivaji    building devplexity-ai --mode=perplexity --feature=study-mode
-102   shivaji    studying ai-engineering --week=3 --instructor="Ed Donner"
-103   shivaji    learning next.js --target=production-grade
-104   shivaji    posting --platform=linkedin --visibility=public
-```
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" height="180" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+</div>
 
 ---
 
-## `> tail -f /var/log/snake.log`
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheShivaji&bg_color=0D1117&color=a78bfa&line=7c3aed&point=FFFFFF&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-snake-dark.svg" />
@@ -132,31 +87,19 @@ PID   USER       COMMAND
 
 ---
 
-## `> cat /etc/motd`
+## 📌 Currently
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   "Ek baar jo maine commit kar diya,                        │
-│    toh main khud ki bhi nahi sunta."                        │
-│                                                             │
-│                              — theShivaji 🎬                │
-│                        (inspired by a legend)               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**If you vibe with what I build — drop a ⭐ or let's connect.**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-jagdale-48817330b)
-[![Gmail](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivajijagdale2005@gmail.com)
-
-</div>
+- 🔨 Building **devplexity-ai** — Perplexity-style search with Study Mode
+- 📚 Week 3 of **AI Engineering Core Track** by Ed Donner
+- 🧭 Mastering **Next.js** for production-grade apps
+- 📣 Documenting everything on **[LinkedIn](https://linkedin.com/in/prathamesh-jagdale-48817330b)**
 
 ---
 
 <div align="center">
-<sub><code>last updated by cron job · TheShivaji · always shipping 🚀</code></sub>
+  <i>"Ek baar jo maine commit kar diya, toh main khud ki bhi nahi sunta."</i>
+  <br/>
+  <sub>— theShivaji (inspired by a legend)</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
