@@ -66,7 +66,7 @@ const shivaji = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 ---
 
