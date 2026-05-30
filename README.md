@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+%2B+AI+Engineer+%F0%9F%9A%80;Building+LangGraph+Agents+%F0%9F%A4%96;MERN+%2B+PostgreSQL+%2B+LangChain;Ship+products.+Not+just+code.+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=500&lines=Full+Stack+%2B+AI+Engineer+%F0%9F%9A%80;Building+LangGraph+Agents+%F0%9F%A4%96;MERN+%2B+PostgreSQL+%2B+LangChain;Ship+products.+Not+just+code.+%E2%9C%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,18 +21,13 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   const shivaji = {                                  │
-│     role:     "Full Stack + AI Engineer",            │
-│     year:     "B.Tech CSE — 3rd Year",               │
-│     stack:    "MERN + LangGraph + PostgreSQL",       │
-│     ships:    ["AI agents", "real products"],        │
-│     goal:     "Build. Deploy. Repeat.",              │
-│     open:     ["Internships", "Collabs"],            │
-│   }                                                  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+const shivaji = {
+  role:   "Full Stack + AI Engineer",
+  year:   "B.Tech CSE — 3rd Year",
+  stack:  "MERN + LangGraph + PostgreSQL",
+  goal:   "Build. Deploy. Repeat.",
+  open:   ["Internships", "Collabs"],
+}
 ```
 
 </div>
@@ -41,71 +36,45 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🔍 [AI Code Reviewer](https://github.com/TheShivaji/ai-code-reviewer)
-**8-agent LangGraph pipeline** that reviews code from paste, GitHub URL, PR diff, or GitLab MR — automatically posts review comments.
+> 8-agent LangGraph pipeline — reviews code from paste, GitHub URL, PR diff, or GitLab MR. Auto-posts review comments.
 
-```
-Security → Bug → Performance → Best Practices
-       ↓ parallel
-Decision Layer → Fix Generator → Action Agent
-       ↓
-   Final Report (score /10)
-```
+`MERN` `LangGraph` `PostgreSQL` `Gemini` `Mistral` `Groq` `Render` `Vercel`
 
-`MERN` `LangGraph` `PostgreSQL` `Render` `Vercel`
+---
 
-</td>
-<td width="50%">
+### 💬 [devplexity-ai](https://github.com/TheShivaji/devplexity-ai)
+> Perplexity-inspired AI chat with web search + Study Mode — flashcards & MCQ quizzes from any topic.
 
-### 🔍 [devplexity-ai](https://github.com/TheShivaji/devplexity-ai)
-**Perplexity-inspired AI chat** with web search + Study Mode — generates flashcards & MCQ quizzes from any topic.
+`MERN` `LangChain` `Mixtral 8x22B` `Tavily` `Socket.io` `Redux`
 
-```
-LangChain Agent (Mixtral 8x22B)
-+ Tavily web search tool calling
-+ Study Mode (flashcards + quiz)
-+ Socket.io + Redux + Auth
-```
-
-`MERN` `LangChain` `Mixtral` `Tavily` `Socket.io`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### ⚔️ [AI Battle Arena](https://github.com/TheShivaji/ai-model-battle)
-**Mistral vs Llama** — judged by Gemini 2.5 Flash with structured output (Zod). LangGraph TypeScript pipeline.
+> Mistral vs Llama — judged by Gemini 2.5 Flash. LangGraph TypeScript pipeline with structured output (Zod).
 
-```
-Mistral Large  ──┐
-                 ├──► Gemini 2.5 Judge → Winner
-Llama 3.1 8B   ──┘
-```
+`LangGraph` `TypeScript` `Mistral` `Llama` `Gemini` `Groq`
 
-`LangGraph` `TypeScript` `Mistral` `Groq` `Gemini`
-
-</td>
-<td width="50%">
+---
 
 ### 🤖 [Baburao AI Agent](https://github.com/TheShivaji/baburao-ai-agent)
-**Multimodal AI agent** with voice — Hera Pheri vibes, serious tech underneath.
+> Multimodal AI agent with voice — Hera Pheri vibes, serious tech underneath.
 
-```
-Python + Llama + Gradio
-Voice input + multimodal
-Hera Pheri personality 😄
-```
+`Python` `Llama` `Gradio` `Multimodal` `Voice`
 
-`Python` `Llama` `Gradio` `Multimodal`
+---
 
-</td>
-</tr>
-</table>
+### 📄 [ATS Resume AI](https://github.com/TheShivaji/ats-resume-ai)
+> Resume vs JD analyzer — finds skill gaps, gives 30-day improvement roadmap.
+
+`JavaScript` `AI` `PDF`
+
+---
+
+### 🔐 [Advanced Auth System](https://github.com/TheShivaji/advanced-auth-system)
+> Production-grade auth — OTP email verification, JWT + HTTP-only cookies, bcrypt.
+
+`MERN` `JWT` `Mailtrap` `bcrypt`
 
 ---
 
@@ -121,9 +90,9 @@ Hera Pheri personality 😄
 
 ```
 AI / Agent Stack
-─────────────────────────────────────────────────────
-LangChain  LangGraph  Mixtral  Llama  Gemini  Mistral
-   Groq      Tavily     Zod    Multi-Agent Systems
+──────────────────────────────────────────────────
+LangChain  LangGraph  Mixtral  Llama  Gemini
+Mistral  Groq  Tavily  Zod  Multi-Agent Systems
 ```
 
 </div>
@@ -146,7 +115,7 @@ LangChain  LangGraph  Mixtral  Llama  Gemini  Mistral
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" />
 </div>
 
 ---
@@ -170,16 +139,16 @@ LangChain  LangGraph  Mixtral  Llama  Gemini  Mistral
 ## 📌 Currently
 
 ```
-🔨 ai-code-reviewer  → Live: Render + Vercel + Neon PostgreSQL
-                       8 LangGraph agents + GitLab MCP
+🔨 ai-code-reviewer → Live on Render + Vercel + Neon
+                      8 LangGraph agents + GitLab MCP
 
-⚔️  ai-model-battle  → TypeScript + LangGraph + Gemini judge
+⚔️  ai-model-battle  → TypeScript + LangGraph + Gemini
 
 🏆 Hackathon         → Google Cloud Rapid Agent (June 12)
 
 📚 Learning          → Docker + Google Cloud + FastAPI
 
-📣 Building in public → LinkedIn — follow the journey
+📣 Building in public → LinkedIn
 ```
 
 ---
@@ -190,9 +159,9 @@ LangChain  LangGraph  Mixtral  Llama  Gemini  Mistral
 <br/>
 <sub>— theShivaji (inspired by a legend)</sub>
 
-<br/><br/>
+<br/>
 
-**⭐ Drop a star on any repo that helped you — keeps the motivation alive!**
+**⭐ Drop a star if any repo helped you!**
 
 </div>
 
