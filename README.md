@@ -1,160 +1,82 @@
-<div align="center">
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=TheShivaji&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Developer%20%7C%20Building%20in%20Public&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=a78bfa" alt="Header" />  </div>  <div align="center">  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=280&section=header&text=Shivaji%20Jagdale&fontSize=62&fontAlign=50&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Engineer%20%7C%20Building%20Real%20Products%20in%20Public&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=a78bfa" />
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=TheShivaji&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />  </div>  
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=500&lines=Full+Stack+%2B+AI+Engineer+%F0%9F%9A%80;Building+LangGraph+Agents+%F0%9F%A4%96;MERN+%2B+PostgreSQL+%2B+LangChain;Ship+products.+Not+just+code.+%E2%9C%85)](https://git.io/typing-svg)
+👨‍💻 About Me
 
-<br/>
+const shivaji = {  
+  role:       "Full Stack + AI Developer",  
+  college:    "B.Tech CSE — 3rd Year",  
+  building:   ["devplexity-ai", "baburao-ai-agent", "ats-resume-ai"],  
+  learning:   ["Next.js", "Docker", "AI Engineering (LLMs, RAG, Agents)"],  
+  goal:       "Ship products. Not just code.",  
+  openTo:     ["Freelance Projects", "Collabs", "Internships"],  
+};
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-jagdale-48817330b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivajijagdale2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=safari&logoColor=white)](https://theshivaji.in)
+> Currently building in public on LinkedIn — follow the journey.
 
-<img src="https://komarev.com/ghpvc/?username=TheShivaji&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
 
-</div>
+
 
 ---
 
-<div align="center">
+🚀 Featured Projects
 
-```
-const shivaji = {
-  role:   "Full Stack + AI Engineer",
-  year:   "B.Tech CSE — 3rd Year",
-  stack:  "MERN + LangGraph + PostgreSQL",
-  goal:   "Build. Deploy. Repeat.",
-  open:   ["Internships", "Collabs"],
-}
-```
+Project	Stack	What it does
 
-</div>
+🔍 devplexity-ai	MERN + AI	Perplexity-inspired AI chat app with tool calling
+🤖 baburao-ai-agent	Python + Llama + Gradio	Multimodal AI agent with voice — Hera Pheri vibes, serious tech
+📄 ats-resume-ai	JS + AI	Resume analyzer — compares with JD, finds gaps, gives 30-day roadmap
+🔐 advanced-auth-system	MERN + HTTP-only Cookies	Full auth flow — OTP verification, secure cookies, production-ready
+🎵 ModiBeats	Full Stack JS	Mood-based music player with real-time interaction
+🤝 multi-agent-debate-ai	Python + Ollama	Multiple AIs debate any topic — judge AI evaluates winner
 
----
 
-## 🚀 Featured Projects
-
-### 🔍 [AI Code Reviewer](https://github.com/TheShivaji/ai-code-reviewer)
-> 8-agent LangGraph pipeline — reviews code from paste, GitHub URL, PR diff, or GitLab MR. Auto-posts review comments.
-
-`MERN` `LangGraph` `PostgreSQL` `Gemini` `Mistral` `Groq` `Render` `Vercel`
 
 ---
 
-### 💬 [devplexity-ai](https://github.com/TheShivaji/devplexity-ai)
-> Perplexity-inspired AI chat with web search + Study Mode — flashcards & MCQ quizzes from any topic.
+🛠️ Tech Stack
 
-`MERN` `LangChain` `Mixtral 8x22B` `Tavily` `Socket.io` `Redux`
+<div align="center">  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,linux,postman,python,vscode&perline=9&theme=dark" />  </div>  
+---
+
+📊 GitHub Stats
+
+<div align="center">  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" height="180" />    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" height="180" />  
+</div>  <br/>  <div align="center">  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />  </div>  
+---  📈 Contribution Graph
+
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheShivaji&bg_color=0D1117&color=a78bfa&line=7c3aed&point=FFFFFF&hide_border=true" width="100%" />  
+</div>  
+---
+
+🐍 Contribution Snake
+
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-snake-dark.svg" />  
+</div>  
+---
+
+📌 Currently
+
+🔨 Building devplexity-ai — Perplexity-style search with Study Mode
+
+📚 Week 3 of AI Engineering Core Track by Ed Donner
+
+🧭 Mastering Next.js for production-grade apps
+
+📣 Documenting everything on LinkedIn
+
+
 
 ---
 
-### ⚔️ [AI Battle Arena](https://github.com/TheShivaji/ai-model-battle)
-> Mistral vs Llama — judged by Gemini 2.5 Flash. LangGraph TypeScript pipeline with structured output (Zod).
-
-`LangGraph` `TypeScript` `Mistral` `Llama` `Gemini` `Groq`
-
----
-
-### 🤖 [Baburao AI Agent](https://github.com/TheShivaji/baburao-ai-agent)
-> Multimodal AI agent with voice — Hera Pheri vibes, serious tech underneath.
-
-`Python` `Llama` `Gradio` `Multimodal` `Voice`
-
----
-
-### 📄 [ATS Resume AI](https://github.com/TheShivaji/ats-resume-ai)
-> Resume vs JD analyzer — finds skill gaps, gives 30-day improvement roadmap.
-
-`JavaScript` `AI` `PDF`
-
----
-
-### 🔐 [Advanced Auth System](https://github.com/TheShivaji/advanced-auth-system)
-> Production-grade auth — OTP email verification, JWT + HTTP-only cookies, bcrypt.
-
-`MERN` `JWT` `Mailtrap` `bcrypt`
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,tailwind,redux,docker,git,linux,postman,vscode&perline=8&theme=dark" />
-
-</div>
-
-<div align="center">
-
-```
-AI / Agent Stack
-──────────────────────────────────────────────────
-LangChain  LangGraph  Mixtral  Llama  Gemini
-Mistral  Groq  Tavily  Zod  Multi-Agent Systems
-```
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" height="175" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheShivaji&bg_color=0D1117&color=a78bfa&line=7c3aed&point=FFFFFF&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheShivaji/TheShivaji/output/github-snake-dark.svg" />
-</div>
-
----
-
-## 📌 Currently
-
-```
-🔨 ai-code-reviewer → Live on Render + Vercel + Neon
-                      8 LangGraph agents + GitLab MCP
-
-⚔️  ai-model-battle  → TypeScript + LangGraph + Gemini
-
-🏆 Hackathon         → Google Cloud Rapid Agent (June 12)
-
-📚 Learning          → Docker + Google Cloud + FastAPI
-
-📣 Building in public → LinkedIn
-```
-
----
-
-<div align="center">
-
-*"Ek baar jo maine commit kar diya, toh main khud ki bhi nahi sunta."*
-<br/>
-<sub>— theShivaji (inspired by a legend)</sub>
-
-<br/>
-
-**⭐ Drop a star if any repo helped you!**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<div align="center">  
+  <i>"Ek baar jo maine commit kar diya, toh main khud ki bhi nahi sunta."</i>  
+  <br/>  
+  <sub>— theShivaji (inspired by a legend)</sub>  
+</div>  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" /> bhai is readme me e table me vah project dal de bhai hai mere profile ke readme hai
