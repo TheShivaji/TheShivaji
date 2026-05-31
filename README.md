@@ -50,7 +50,7 @@ const shivaji = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,linux,postman,python,vscode&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,linux,postman,python,langchain,vscode&perline=9&theme=dark" />
 
 </div>
 
