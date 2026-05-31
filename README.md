@@ -9,7 +9,7 @@
 const shivaji = {  
   role:       "Full Stack + AI Developer",  
   college:    "B.Tech CSE — 3rd Year",  
-  building:   ["devplexity-ai", "baburao-ai-agent", "ats-resume-ai"],  
+  building: ["ai-code-reviewer","devplexity-ai","baburao-ai-agent","ats-resume-ai"],
   learning:   ["Next.js", "Docker", "AI Engineering (LLMs, RAG, Agents)"],  
   goal:       "Ship products. Not just code.",  
   openTo:     ["Freelance Projects", "Collabs", "Internships"],  
@@ -17,21 +17,18 @@ const shivaji = {
 
 > Currently building in public on LinkedIn — follow the journey.
 
-
-
-
 ---
 
 🚀 Featured Projects
 
-Project	Stack	What it does
-
-🔍 devplexity-ai	MERN + AI	Perplexity-inspired AI chat app with tool calling
-🤖 baburao-ai-agent	Python + Llama + Gradio	Multimodal AI agent with voice — Hera Pheri vibes, serious tech
-📄 ats-resume-ai	JS + AI	Resume analyzer — compares with JD, finds gaps, gives 30-day roadmap
-🔐 advanced-auth-system	MERN + HTTP-only Cookies	Full auth flow — OTP verification, secure cookies, production-ready
-🎵 ModiBeats	Full Stack JS	Mood-based music player with real-time interaction
-🤝 multi-agent-debate-ai	Python + Ollama	Multiple AIs debate any topic — judge AI evaluates winner
+Project| Stack| What it does
+🧠 "ai-code-reviewer" (https://github.com/TheShivaji/ai-code-reviewer)| Node.js + LangGraph + Gemini| Multi-agent code review system — 8 specialized agents analyze code in parallel, Gemini synthesizes findings into GitHub PR-ready feedback
+🔍 "devplexity-ai" (https://github.com/TheShivaji/devplexity-ai)| MERN + AI| Perplexity-inspired AI chat app with tool calling
+🤖 "baburao-ai-agent" (https://github.com/TheShivaji/baburao-ai-agent)| Python + Llama + Gradio| Multimodal AI agent with voice — Hera Pheri vibes, serious tech
+🤝 "multi-agent-debate-ai" (https://github.com/TheShivaji/multi-agent-debate-ai)| Python + Ollama| Multiple AIs debate any topic — judge AI evaluates winner
+📄 "ats-resume-ai" (https://github.com/TheShivaji/ats-resume-ai)| JS + AI| Resume analyzer — compares with JD, finds gaps, gives 30-day roadmap
+🔐 "advanced-auth-system" (https://github.com/TheShivaji/advanced-auth-system)| MERN + HTTP-only Cookies| Full auth flow — OTP verification, secure cookies, production-ready
+🎵 "ModiBeats" (https://github.com/TheShivaji/ModiBeats)| Full Stack JS| Mood-based music player with real-time interaction
 
 
 
