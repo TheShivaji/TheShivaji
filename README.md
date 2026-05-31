@@ -42,7 +42,7 @@ const shivaji = {
 | 🔐 **[advanced-auth-system](https://github.com/TheShivaji/advanced-auth-system)** | MERN + HTTP-only Cookies | Full auth flow — OTP verification, secure cookies, production-ready |
 | 🎵 **[ModiBeats](https://github.com/TheShivaji/ModiBeats)** | Full Stack JS | Mood-based music player with real-time interaction |
 | 🤝 **[multi-agent-debate-ai](https://github.com/TheShivaji/multi-agent-debate-ai)** | Python + Ollama | Multiple AIs debate any topic — judge AI evaluates winner |
-| 🧠 "ai-code-reviewer" (https://github.com/TheShivaji/ai-code-reviewer) | Node.js + LangGraph + Gemini | Multi-agent code review system — 8 specialized agents analyze code in parallel, Gemini synthesizes findings into GitHub PR-ready feedback |
+| 🧠 **[ai-code-reviewer](https://github.com/TheShivaji/ai-code-reviewer)**| Node.js + LangGraph + Gemini | Multi-agent code review system — 8 specialized agents analyze code in parallel, Gemini synthesizes findings into GitHub PR-ready feedback |
 
 ---
 
