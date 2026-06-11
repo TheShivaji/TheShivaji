@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=280&section=header&text=Shivaji%20Jagdale&fontSize=62&fontAlign=50&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Engineer%20%7C%20Building%20Real%20Products%20in%20Public&descAlign=50&descAlignY=62&fontColor=ffffff&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=280&section=header&text=TheShivaji&fontSize=62&fontAlign=50&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Engineer%20%7C%20Building%20Real%20Products%20in%20Public&descAlign=50&descAlignY=62&fontColor=ffffff&descColor=a78bfa" />
 
 <br/>
 
@@ -18,20 +18,18 @@
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
 ```ts
 const shivaji = {
-  role:    "Full Stack + AI Engineer",
-  year:    "B.Tech CSE — 3rd Year",
-  stack:   "MERN + LangGraph + PostgreSQL",
-  shipped: ["ai-code-reviewer", "devplexity-ai", "ai-model-battle"],
-  goal:    "Build. Deploy. Repeat.",
-  open:    ["Internships", "Collabs"],
-}
+  role:       "Full Stack + AI Developer",
+  college:    "B.Tech CSE — 3rd Year",
+  building:   ["ai-code-reviewer", devplexity-ai", "baburao-ai-agent", "ats-resume-ai"],
+  learning:   ["Next.js", "Docker", "AI Engineering (LLMs, RAG, Agents)"],
+  goal:       "Ship products. Not just code.",
+  openTo:     ["Freelance Projects", "Collabs", "Internships"],
+};
 ```
-
-</div>
 
 ---
 
