@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=280&section=header&text=TheShivaji&fontSize=62&fontAlign=50&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Engineer%20%7C%20Building%20Real%20Products%20in%20Public&descAlign=50&descAlignY=62&fontColor=ffffff&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=TheShivaji&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Developer%20%7C%20Building%20in%20Public&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=a78bfa" alt="Header" />
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+%2B+AI+Engineer+%F0%9F%9A%80;8-Agent+LangGraph+Pipeline+%F0%9F%A4%96;MERN+%2B+PostgreSQL+%2B+LangChain;Ship+products.+Not+just+code.+%E2%9C%85)](https://git.io/typing-svg)
-
-<br/>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-jagdale-48817330b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivajijagdale2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=safari&logoColor=white)](https://theshivaji.in)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivajijagdale2005@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=TheShivaji&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
 
@@ -31,49 +28,21 @@ const shivaji = {
 };
 ```
 
+> *Currently building in public on LinkedIn — follow the journey.*
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [AI Code Reviewer](https://github.com/TheShivaji/ai-code-reviewer) — `Live`
-> 8-agent LangGraph pipeline — Security, Bug, Performance, Best Practices run in parallel. Auto-posts review comments on GitLab MRs. Submitted to **Google Cloud Rapid Agent Hackathon 2026**.
-
-`MERN` `LangGraph` `PostgreSQL` `Mistral` `Llama` `Gemini` `GitLab MCP` `Render` `Vercel`
-
----
-
-### 💬 [devplexity-ai](https://github.com/TheShivaji/devplexity-ai) — `Live`
-> Perplexity-inspired AI chat with LangChain Agent + Tavily web search + **Study Mode** (flashcards & MCQ quizzes). Full auth, Socket.io, Redux.
-
-`MERN` `LangChain` `Mixtral 8x22B` `Tavily` `Socket.io` `Redux`
-
----
-
-### ⚔️ [AI Battle Arena](https://github.com/TheShivaji/ai-model-battle) — `Live`
-> Mistral vs Llama — judged by Gemini 2.5 Flash with structured output (Zod). LangGraph TypeScript pipeline with REST API.
-
-`LangGraph` `TypeScript` `Mistral` `Llama` `Gemini` `Groq`
-
----
-
-### 🤖 [Baburao AI Agent](https://github.com/TheShivaji/baburao-ai-agent)
-> Multimodal AI agent with voice — Hera Pheri vibes, serious tech underneath.
-
-`Python` `Llama` `Gradio` `Multimodal` `Voice`
-
----
-
-### 📄 [ATS Resume AI](https://github.com/TheShivaji/ats-resume-ai)
-> Resume vs JD analyzer — finds skill gaps, gives 30-day improvement roadmap.
-
-`JavaScript` `AI` `PDF`
-
----
-
-### 🔐 [Advanced Auth System](https://github.com/TheShivaji/advanced-auth-system)
-> Production-grade auth — OTP email verification, JWT + HTTP-only cookies, bcrypt.
-
-`MERN` `JWT` `Mailtrap` `bcrypt`
+| Project | Stack | What it does |
+|---|---|---|
+| 🔍 **[devplexity-ai](https://github.com/TheShivaji/devplexity-ai)** | MERN + AI | Perplexity-inspired AI chat app with tool calling |
+| 🤖 **[baburao-ai-agent](https://github.com/TheShivaji/baburao-ai-agent)** | Python + Llama + Gradio | Multimodal AI agent with voice — Hera Pheri vibes, serious tech |
+| 📄 **[ats-resume-ai](https://github.com/TheShivaji/ats-resume-ai)** | JS + AI | Resume analyzer — compares with JD, finds gaps, gives 30-day roadmap |
+| 🔐 **[advanced-auth-system](https://github.com/TheShivaji/advanced-auth-system)** | MERN + HTTP-only Cookies | Full auth flow — OTP verification, secure cookies, production-ready |
+| 🎵 **[ModiBeats](https://github.com/TheShivaji/ModiBeats)** | Full Stack JS | Mood-based music player with real-time interaction |
+| 🤝 **[multi-agent-debate-ai](https://github.com/TheShivaji/multi-agent-debate-ai)** | Python + Ollama | Multiple AIs debate any topic — judge AI evaluates winner |
+| 🧠 **[ai-code-reviewer](https://github.com/TheShivaji/ai-code-reviewer)**| Node.js + LangGraph + Gemini | Multi-agent code review system — 8 specialized agents analyze code in parallel, Gemini synthesizes findings into GitHub PR-ready feedback |
 
 ---
 
@@ -81,18 +50,15 @@ const shivaji = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,tailwind,redux,docker,git,linux,postman,vscode&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,docker,linux,postman,python,vscode&perline=9&theme=dark" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-```
-AI / Agent Stack
-──────────────────────────────────────────────────
-LangChain  LangGraph  Mixtral  Llama  Gemini
-Mistral  Groq  Tavily  Zod  Multi-Agent Systems
-```
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
+![Tavily](https://img.shields.io/badge/Tavily-22C55E?style=for-the-badge)
 
 </div>
 
@@ -101,22 +67,18 @@ Mistral  Groq  Tavily  Zod  Multi-Agent Systems
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" height="175" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" height="175" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" height="180" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" height="180" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheShivaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" />
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -137,31 +99,18 @@ Mistral  Groq  Tavily  Zod  Multi-Agent Systems
 
 ## 📌 Currently
 
-```
-🧠 ai-code-reviewer  → Live + Submitted to Google Cloud Hackathon 2026
-                       8 LangGraph agents + GitLab MCP auto-comment
-
-💬 devplexity-ai     → Live + Study Mode (flashcards + quiz)
-
-⚔️  ai-model-battle  → Live + TypeScript + LangGraph + Gemini judge
-
-📚 Learning          → FastAPI + Google Cloud + System Design
-
-📣 Building in public → LinkedIn — follow the journey
-```
+- 🧠 **ai-code-reviewer** — Live + Submitted to Google Cloud Hackathon 2026
+- 💬 **devplexity-ai** — Live + Study Mode (flashcards + quiz)
+- ⚔️ **ai-model-battle** — Live + LangGraph + TypeScript
+- 📚 **Ed Donner AI Engineering** — Week 8 complete
+- 📣 Building in public on **[LinkedIn](https://linkedin.com/in/prathamesh-jagdale-48817330b)**
 
 ---
 
 <div align="center">
-
-*"Ek baar jo maine commit kar diya, toh main khud ki bhi nahi sunta."*
-<br/>
-<sub>— theShivaji (inspired by a legend)</sub>
-
-<br/>
-
-**⭐ Drop a star if any repo helped you!**
-
+  <i>"Ek baar jo maine commit kar diya, toh main khud ki bhi nahi sunta."</i>
+  <br/>
+  <sub>— theShivaji (inspired by a legend)</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
