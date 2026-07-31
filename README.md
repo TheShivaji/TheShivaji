@@ -36,13 +36,13 @@ const shivaji = {
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🔍 **[devplexity-ai](https://github.com/TheShivaji/devplexity-ai)** | MERN + AI | Perplexity-inspired AI chat app with tool calling |
-| 🤖 **[baburao-ai-agent](https://github.com/TheShivaji/baburao-ai-agent)** | Python + Llama + Gradio | Multimodal AI agent with voice — Hera Pheri vibes, serious tech |
-| 📄 **[ats-resume-ai](https://github.com/TheShivaji/ats-resume-ai)** | JS + AI | Resume analyzer — compares with JD, finds gaps, gives 30-day roadmap |
-| 🔐 **[advanced-auth-system](https://github.com/TheShivaji/advanced-auth-system)** | MERN + HTTP-only Cookies | Full auth flow — OTP verification, secure cookies, production-ready |
-| 🎵 **[ModiBeats](https://github.com/TheShivaji/ModiBeats)** | Full Stack JS | Mood-based music player with real-time interaction |
-| 🤝 **[multi-agent-debate-ai](https://github.com/TheShivaji/multi-agent-debate-ai)** | Python + Ollama | Multiple AIs debate any topic — judge AI evaluates winner |
-| 🧠 **[ai-code-reviewer](https://github.com/TheShivaji/ai-code-reviewer)**| Node.js + LangGraph + Gemini | Multi-agent code review system — 8 specialized agents analyze code in parallel, Gemini synthesizes findings into GitHub PR-ready feedback |
+| 🌋 **[DevArena](https://github.com/TheShivaji/DevArena)** | Next.js + TypeScript + PostgreSQL + Prisma + Judge0 | Modern algorithmic coding platform with online code execution, RBAC, automated solution verification, and premium developer experience |
+| 🎧 **[EchoBeats](https://github.com/TheShivaji/EchoBeats)** | Next.js + Node.js + PostgreSQL + Prisma | Spotify-inspired music streaming platform with authentication, playlists, albums, real-time features, and AI-powered music discovery *(In Progress)* |
+| 🔍 **[devplexity-ai](https://github.com/TheShivaji/devplexity-ai)** | MERN + AI | Perplexity-inspired AI chat application with tool calling and web search |
+| 🧠 **[ai-code-reviewer](https://github.com/TheShivaji/ai-code-reviewer)** | Node.js + LangGraph + Gemini | Multi-agent code review system where specialized AI agents analyze code in parallel and generate GitHub PR-ready feedback |
+| 📄 **[ats-resume-ai](https://github.com/TheShivaji/ats-resume-ai)** | JavaScript + AI | AI-powered resume analyzer that compares resumes with job descriptions and generates personalized improvement roadmaps |
+| 🔐 **[advanced-auth-system](https://github.com/TheShivaji/advanced-auth-system)** | MERN + HTTP-only Cookies | Production-style authentication system with OTP verification, secure cookies, and refresh token flow |
+| 🤝 **[multi-agent-debate-ai](https://github.com/TheShivaji/multi-agent-debate-ai)** | Python + Ollama | Multi-agent AI debate platform where multiple LLMs argue different perspectives and a judge AI determines the winner |
 
 ---
 
