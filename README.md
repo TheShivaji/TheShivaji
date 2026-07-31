@@ -36,7 +36,7 @@ const shivaji = {
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🌋 **[DevArena](https://github.com/TheShivaji/DevArena)** | Next.js + TypeScript + PostgreSQL + Prisma + Judge0 | Modern algorithmic coding platform with online code execution, RBAC, automated solution verification, and premium developer experience |
+| 🌋 **[DevArena](https://github.com/TheShivaji/DevArena)** | Next.js + TypeScript + PostgreSQL + Prisma + Judge0 | Modern algorithmic coding platform with online code execution, RBAC, automated solution verification, and premium developer experience *(In Progress)*|
 | 🎧 **[EchoBeats](https://github.com/TheShivaji/EchoBeats)** | Next.js + Node.js + PostgreSQL + Prisma | Spotify-inspired music streaming platform with authentication, playlists, albums, real-time features, and AI-powered music discovery *(In Progress)* |
 | 🔍 **[devplexity-ai](https://github.com/TheShivaji/devplexity-ai)** | MERN + AI | Perplexity-inspired AI chat application with tool calling and web search |
 | 🧠 **[ai-code-reviewer](https://github.com/TheShivaji/ai-code-reviewer)** | Node.js + LangGraph + Gemini | Multi-agent code review system where specialized AI agents analyze code in parallel and generate GitHub PR-ready feedback |
