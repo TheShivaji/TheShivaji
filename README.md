@@ -99,7 +99,6 @@ const shivaji = {
 
 ## 📌 Currently
 
-- 🧠 **ai-code-reviewer** — Live + Submitted to Google Cloud Hackathon 2026
 - 💬 **devplexity-ai** — Live + Study Mode (flashcards + quiz)
 - ⚔️ **ai-model-battle** — Live + LangGraph + TypeScript
 - 📚 **Ed Donner AI Engineering** — Week 8 complete
