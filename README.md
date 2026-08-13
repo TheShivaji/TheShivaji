@@ -66,11 +66,14 @@ const shivaji = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" height="180" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" height="180" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" height="180" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" height="180" alt="Top Languages" />
 </div>
+
 
 <br/>
 
