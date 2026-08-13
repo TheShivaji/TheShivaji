@@ -66,24 +66,20 @@ const shivaji = {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <div align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheShivaji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" height="180" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheShivaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" height="180" alt="Top Languages" />
 </div>
 
-
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com?user=TheShivaji&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
 </div>
+
 ---
 
 ## 📈 Contribution Graph
