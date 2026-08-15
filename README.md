@@ -87,6 +87,8 @@ const shivaji = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheShivaji&bg_color=0D1117&color=a78bfa&line=7c3aed&point=FFFFFF&hide_border=true" width="100%" />
 </div>
+[![TheShivaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShivaji&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
