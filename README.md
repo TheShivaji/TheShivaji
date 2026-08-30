@@ -85,7 +85,7 @@ const shivaji = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheShivaji&bg_color=0D1117&color=a78bfa&line=7c3aed&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph-olive-two.vercel.app/graph?username=TheShivaji&bg_color=0D1117&color=a78bfa&line=7c3aed&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
 
