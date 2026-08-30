@@ -105,7 +105,7 @@ const shivaji = {
 - 💬 **devplexity-ai** — Live + Study Mode (flashcards + quiz)
 - ⚔️ **ai-model-battle** — Live + LangGraph + TypeScript
 - 📚 **Ed Donner AI Engineering** — Week 8 complete
-- 📣 Building in public on **[LinkedIn](https://linkedin.com/in/prathamesh-jagdale-48817330b)**
+- 📣 Building in public on **[LinkedIn](https://www.linkedin.com/in/shivaji-jagdale-48817330b)**
 
 ---
 
