@@ -9,20 +9,23 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate custom snake (SVG + GIF, purple theme)
+        uses: Platane/snk@v3
         with:
           github_user_name: TheShivaji
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%23a78bfa&color_dots=%230D1117,%23302b63,%237c3aed,%23a78bfa,%23ffffff&color_border=%23000000
+            dist/github-snake-dark.svg?color_snake=%23a78bfa&color_dots=%23161b22,%23302b63,%237c3aed,%23a78bfa,%23ffffff&color_border=%23000000
+            dist/github-snake.gif?color_snake=%23a78bfa&color_dots=%230D1117,%23302b63,%237c3aed,%23a78bfa,%23ffffff&color_border=%23000000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
