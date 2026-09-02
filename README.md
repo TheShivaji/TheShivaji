@@ -21,7 +21,7 @@
 const shivaji = {
   role:       "Full Stack + AI Developer",
   college:    "B.Tech CSE — 3rd Year",
-  building:   ["ai-code-reviewer", devplexity-ai", "baburao-ai-agent", "ats-resume-ai"],
+  building:   ["ai-code-reviewer", "devplexity-ai", "baburao-ai-agent", "ats-resume-ai"],
   learning:   ["Next.js", "Docker", "AI Engineering (LLMs, RAG, Agents)"],
   goal:       "Ship products. Not just code.",
   openTo:     ["Freelance Projects", "Collabs", "Internships"],
